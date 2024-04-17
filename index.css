@@ -25,7 +25,8 @@ ul{
   list-style: none;
   padding: 1px;
   font-size: 20px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
+  box-shadow: 7px 7px rgb(107, 107, 94);
   border-radius: 9px;
   background-color: #D7AD7E;
   

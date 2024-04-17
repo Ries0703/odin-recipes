@@ -13,6 +13,7 @@ div {
   margin: 40px auto;
   background-color: rgb(210, 210, 131);
   box-shadow: 20px 20px #506133;
+  border-radius: 8px;
 }
 
 img.beef {
@@ -20,6 +21,7 @@ img.beef {
   display: block;
   margin: auto auto;
   box-shadow: 15px 15px rgb(141, 141, 88);
+  border-radius: 8px;
 }
 
 h1 {
