@@ -1,19 +1,16 @@
-body {
-  width: 400px;
-  margin: auto;
-  background-color: lightyellow;
-  border: 1px;
-  border-style:solid;
-  padding: 2%;
+* {
+  box-sizing: border-box;
 }
 
-
-h1 {
-  text-align: center;
+div {
+  border: 1px solid black;
+  padding: 8px;
+  width: 700px;
+  margin: auto auto;
 }
 
 img.beef {
   width: 50%;
   display: block;
-  margin: auto;
+  margin: auto auto;
 }
