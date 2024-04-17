@@ -13,7 +13,7 @@ h1 {
   font-size: 50px;
   background-color: lightyellow;
   padding: 10px 10px;
-  background-color: #d7ad7e;
+  background-color: #ffce95;
   border-radius: 9px;
   box-shadow: 7px 7px rgb(107, 107, 94);
 }
@@ -23,21 +23,12 @@ body {
 
 ul {
   list-style: none;
-  padding: 1px;
+  padding: 10px;
   font-size: 20px;
   /* border: 2px solid black; */
   box-shadow: 7px 7px rgb(107, 107, 94);
   border-radius: 9px;
   background-color: #ffce95;
-}
-
-li {
-  margin: 10px;
-  border: 2.5px solid #937756;
-  background-color: #d7ad7e;
-  border-radius: 9px;
-  padding: 5px;
-  box-shadow: 2px 2px rgb(107, 107, 94);
 }
 
 a {
@@ -46,9 +37,21 @@ a {
 }
 
 button {
-  text-decoration: none;
-  color: black;
   font-size: 20px;
+  margin: 10px;
+  border-radius: 9px;
+  padding: 6px;
   background-color: #d7ad7e;
-  border: 0px;
+  border: 2.5px solid #937756;
+  box-shadow: 2px 2px rgb(107, 107, 94);
+  width: 90%;
+  
+}
+
+a {
+  /* position: relative; */
+  /* z-index: 1; */
+  padding: 0.5em 2em;
+  margin: -2em;
+  /* border: 1px solid black; */
 }
