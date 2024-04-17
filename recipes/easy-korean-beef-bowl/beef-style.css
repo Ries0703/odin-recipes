@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #506133;
+  background-color: rgb(102, 131, 74);
   font-family: Arial, Helvetica, sans-serif;
 }
 div {
@@ -12,14 +12,14 @@ div {
   width: 700px;
   margin: 40px auto;
   background-color: rgb(210, 210, 131);
-  box-shadow: 20px 20px rgb(102, 131, 74);
+  box-shadow: 20px 20px #506133;
 }
 
 img.beef {
   width: 50%;
   display: block;
   margin: auto auto;
-  box-shadow: 15px 15px  rgb(141, 141, 88);
+  box-shadow: 15px 15px rgb(141, 141, 88);
 }
 
 h1 {
